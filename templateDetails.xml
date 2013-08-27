@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="1.0" type="template" client="site">
+	<name>Bender</name>
+	<creationDate>25 November 2013</creationDate>
+	<author>Jefersson Nathan</author>
+	<authorEmail>malukenho@phpse.net</authorEmail>
+	<authorUrl>http://www.jefersson.com.br</authorUrl>
+	<copyright>Copyright (C) 2013 Open Source Matters, Inc. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>1.0.0</version>
+	<description>
+		Default template to Bender Framework v1.0.0
+	</description>
+
+	<files>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>javascript</folder>
+		<folder>framework</folder>
+		<filename>templateDetails.xml</filename>
+		<filename>favicon.ico</filename>
+	</files>
+
+	<positions>
+		<position>topo</position>
+		<position>menu</position>
+		<position>footer</position>
+		<position>component</position>
+		<position>copyright</position>
+		<position>sidebar</position>		
+		
+	</positions>
+
+</extension>
