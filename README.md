@@ -19,3 +19,5 @@ If not, help reporting bugs, suggesting, disseminating and using.
 ![](http://www.futurama-madhouse.com/bios/bioBender.jpg)
 
 	(c) Bender Framework - 2013
+
+![GPL LICENSE](http://www.gnu.org/graphics/lgplv3-147x51.png)
